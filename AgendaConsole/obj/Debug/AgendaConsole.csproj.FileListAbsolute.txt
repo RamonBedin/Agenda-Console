@@ -1,0 +1,7 @@
+D:\Desktop\vs aula\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe.config
+D:\Desktop\vs aula\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe
+D:\Desktop\vs aula\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.pdb
+D:\Desktop\vs aula\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.AssemblyReference.cache
+D:\Desktop\vs aula\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.CoreCompileInputs.cache
+D:\Desktop\vs aula\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.exe
+D:\Desktop\vs aula\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.pdb
